@@ -1,0 +1,809 @@
+
+hr
+{
+    width: 17px;
+    margin-left: 20px;
+    border-top: 2px solid black;
+    margin-top: -5px;
+    
+}
+.HR
+{
+    padding: 20px;
+}
+
+.google
+{
+    position: absolute;
+    height: 84px;
+    padding: 63px;
+    margin-top: 66px;
+}
+
+.clsroom
+{
+    padding: 155px;
+    font-size: 27px;
+    margin-top: -185px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(94, 85, 85);
+}
+
+.icon1
+{
+    float: right;
+    padding: 128px;
+    margin-top: -360px;
+    color: rgb(88, 78, 78);
+}
+
+.icon2
+{
+    float: right;
+    padding: 75px;
+    margin-top: -307px;
+    color: rgb(88, 78, 78);
+}
+
+.flower
+{
+    height: 36px;
+    width: 36px;
+    border-radius: 50%;
+    position: absolute;
+    top: 16px;
+    right: 32px;
+    
+}
+
+.hr2
+{
+    position: absolute;
+    width: 90rem;
+    margin-top: -185px;
+    border-top: 1px solid #c2c2c2f8;;
+   
+}
+.icon3
+{
+    position: absolute;
+    padding: 20px;
+    margin-top: -200px;
+    color: rgb(49, 68, 238);
+}
+
+.todo
+{
+    position: absolute;
+    padding: 50px;
+    margin-top: -230px;
+    color: rgb(49, 68, 238);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.icon4
+{
+    position: absolute;
+    padding: 127px;
+    margin-top: -306px;
+    color: rgb(49, 68, 238);
+
+}
+
+.calender
+{
+    position: absolute;
+    padding: 158px;
+    margin-top: -336px;
+    color: rgb(49, 68, 238);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+
+}
+
+
+
+/* 1st cls room */
+
+
+.box1
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 20px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box1:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx1
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(91, 3, 225);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic1
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon5
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon6
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+
+/* 2nd cls room */
+
+
+.box2
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 360px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box2:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx2
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(81, 161, 2);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para2
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic2
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon7
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon8
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 3rd cls room */
+
+
+.box3
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 700px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box3:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx3
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(5, 149, 159);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para3
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic3
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon9
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon10
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 4th cls room */
+
+
+.box4
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 1040px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box4:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx4
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(169, 158, 2);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para4
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic4
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon11
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon12
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 5th cls room */
+
+
+.box5
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 1040px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box5:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx5
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(157, 29, 196);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para5
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic5
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon13
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon14
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 6th cls room */
+
+.box6
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 700px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box6:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx6
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(8, 18, 207);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para6
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic6
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon15
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon16
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 7th cls room */
+
+
+.box7
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 360px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box7:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx7
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(196, 64, 2);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para7
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic7
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon17
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon18
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+/* 8th cls room */
+
+.box8
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 20px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box8:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx8
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(87, 147, 114);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para8
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic8
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon19
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon20
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+
+/* 9th cls room */
+
+.box9
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 20px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box9:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx9
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(39, 157, 236);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para9
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic9
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon21
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon22
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
+
+/* 10th cls room */
+
+.box10
+{
+    position: absolute;
+    height: 305px;
+    width: 310px;
+    background-color: white(230, 222, 222);
+    margin-top: -120px;
+    margin-left: 360px;
+    border: 2px solid rgb(222, 222, 222);
+    border-radius: 5px;
+    border-top: none;
+}
+
+.box10:hover
+{
+    box-shadow: 0px 0px 2px 2px rgb(213, 212, 212);
+    border-radius: 6px;
+}
+
+.bx10
+{
+    position: absolute;
+    height: 105px;
+    width: 312px;
+    background-color: rgb(14, 144, 111);
+    margin-top: 0px;
+    margin-left: -1px;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border: none;
+}
+
+.para10
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -20px;
+    margin-left: 10px;
+    color:white;
+}
+
+.pic10
+{
+    position: absolute;
+    height: 85px;
+    width: 85px;
+    border-radius: 50%;
+    margin-top: -200px;
+    margin-left: 210px;
+}
+
+.icon23
+{
+    color: rgb(41, 41, 41);
+    float: right;
+    padding: 73px;
+    margin-top: -68px;
+}
+
+.icon24
+{
+    position: absolute;
+    margin-left: 260px;
+    color: rgb(41, 41, 41);
+    margin-top: 5px;
+}
